@@ -22,6 +22,8 @@ public class Main {
         System.out.println("Hello Helloаааaaa");
         System.out.println("Hello Helloаааaaaaaa");
         System.out.println("Hello Helloаааaaaaaaaaa");
+        System.out.println("Hello Hello���");
+        System.out.println("New2");
     }
     
 }
